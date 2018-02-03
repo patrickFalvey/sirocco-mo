@@ -37,3 +37,7 @@ src/main/resources/opennlp15model-sa/en-sent/
 src/main/resources/opennlp15model-sa/en-token/
 src/main/resources/opennlp15model-sa/en-pos-maxent.bin.orig
 
+# IntelliJ Files
+.idea/
+.idea/*
+.iml
